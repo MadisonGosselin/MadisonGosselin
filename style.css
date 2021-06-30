@@ -4,6 +4,28 @@ body {
     text-align: center;
 }
 
+.homeBackground{
+    min-height: 50vh;
+}
+
+.aboutmeBackground{
+    min-height: 100vh;
+}
+
+.skillsBackground{
+    min-height:50vh
+}
+
+.pfp{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    margin-top: 175px;
+    width: 200px;
+    height: auto;
+}
+
 .name{
     color: white;
     font-family:'Franklin Gothic Book';
@@ -17,16 +39,7 @@ body {
     font-family:'Franklin Gothic Book';
     font-size: 18px;
     margin-top: 10px;
-}
-
-.pfp{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 50%;
-    margin-top: 175px;
-    width: 200px;
-    height: auto;
+    margin-bottom: 5px;
 }
 
 .socialIcon{
@@ -34,42 +47,76 @@ body {
     width: auto;
     display: inline-block;
     margin-top: 10px;
-}
-
-.homeBackground{
-    min-height: 100vh;
-}
-
-.aboutmeBackground{
-    min-height: 100vh;
-    margin-top: 200px;
-    padding-top: 50px;
+    margin-bottom: 110px;
 }
 
 .aboutMe{
-    margin-top: 100px;
     color: white;
     font-family:'Franklin Gothic Book';
 }
 
 .aboutMeDescription{
-    margin-left: 300px;
-    margin-right: 300px;
+    margin-left: 350px;
+    margin-right: 350px;
     color: white;
     font-family:'Franklin Gothic Book';
 }
 
 .futurePlans{
+    margin-top: 50px;
     color: white;
     font-family:'Franklin Gothic Book';
 }
 
 .futurePlansDescription{
-    margin-left: 300px;
-    margin-right: 300px;
+    margin-left: 350px;
+    margin-right: 350px;
     color: white;
     font-family:'Franklin Gothic Book';
+}
 
+.firstLogo{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-top: -200px;
+    margin-left: 50px;
+}
+
+.teamLogo{
+    width: 155px;
+    height: 155px;
+    float: left;
+    margin-top: -150px;
+    margin-left: 110px;
+}
+
+.backRoboPic{
+    width: 175px;
+    height: 175px;
+    float: right;
+    border-radius: 50%;
+    margin-right: 40px;
+    margin-top: -250px;
+}
+
+.girlsEvent{
+    width: 115px;
+    height: 115px;
+    float: right;
+    border-radius: 50%;
+    margin-top: -125px;
+    margin-right: 150px;
+}
+
+.divider{
+    top: 100px;
+}
+
+.skills{
+    color: white;
+    font-family:'Franklin Gothic Book';
 }
 
 .toTop{
@@ -88,6 +135,7 @@ body {
     margin-bottom: 20px;
 }
 
+/* list for nav bar */
 ul{
     top: 0;
     list-style-type: none;
