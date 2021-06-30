@@ -13,7 +13,7 @@ body {
 }
 
 .skillsBackground{
-    min-height:150vh
+    min-height:100vh
 }
 
 .pfp{
@@ -62,41 +62,6 @@ body {
     font-family:'Franklin Gothic Book';
 }
 
-.firstLogo{
-    border-radius: 50%;
-    width: 100px;
-    height: 100px;
-    float: left;
-    margin-top: -130px;
-    margin-left: 50px;
-}
-
-.teamLogo{
-    width: 155px;
-    height: 155px;
-    float: left;
-    margin-top: -35px;
-    margin-left: 110px;
-}
-
-.backRoboPic{
-    width: 175px;
-    height: 175px;
-    float: right;
-    border-radius: 50%;
-    margin-right: 40px;
-    margin-top: -180px;
-}
-
-.girlsEvent{
-    width: 115px;
-    height: 115px;
-    float: right;
-    border-radius: 50%;
-    margin-top: -15px;
-    margin-right: 150px;
-}
-
 .futurePlans{
     margin-top: 50px;
     color: white;
@@ -110,24 +75,101 @@ body {
     font-family:'Franklin Gothic Book';
 }
 
+.firstLogo{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-top: 50px;
+}
+
+.teamLogo{
+    width: 155px;
+    height: 155px;
+    margin-top: 50px;
+}
+
+.backRoboPic{
+    width: 175px;
+    height: 175px;
+    border-radius: 50%;
+    margin-top: 50px;
+}
+
+.girlsEvent{
+    width: 115px;
+    height: 115px;
+    border-radius: 50%;
+    margin-top: 50px;
+}
+
+
 .skills{
     color: white;
     font-family:'Franklin Gothic Book';
     margin-top: 135px;
+    margin-bottom: 25px;
 }
 
 * {box-sizing:border-box}
 
 .container {
-    width: 35%;
+    width: 20%;
     background-color: #ddd;
+    margin-left: auto; margin-right: auto;
+    border-radius: 25px;
 }
 
-.python{width: 80%; background-color: #4D4D4D; border: 2pt solid black}
-.cpp{width: 65%; background-color: #3B3B3B; border: 2pt solid black}
-.c{width: 75%; background-color: #292929; border: 2pt solid black}
-.java{width: 25%; background-color: #212121; border: 2pt solid black}
-.html{width: 55%; background-color: #121212; border: 2pt solid black}
+.pythonTitle{color: white; font-family:'Franklin Gothic Book'; margin-bottom: 10}
+.cppTitle{color: white; font-family:'Franklin Gothic Book'; margin-bottom: 10}
+.cTitle{color: white; font-family:'Franklin Gothic Book'; margin-bottom: 10}
+.javaTitle{color: white; font-family:'Franklin Gothic Book'; margin-bottom: 10}
+.htmlTitle{color: white; font-family:'Franklin Gothic Book'; margin-bottom: 10}
+
+.python{width: 80%; background-color: #676767; border: 2pt solid black; margin-top: 0; border-radius: 25px}
+.cpp{width: 65%; background-color: #4f4f4f; border: 2pt solid black; margin-top: 0; border-radius: 25px}
+.c{width: 75%; background-color: #383838; border: 2pt solid black; margin-top: 0; border-radius: 25px}
+.java{width: 25%; background-color: #232323; border: 2pt solid black; margin-top: 0; border-radius: 25px}
+.html{width: 55%; background-color: #0d0d0d; border: 2pt solid black; margin-top: 0; border-radius: 25px}
+
+.pythonLogo{
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-top: -390px;
+    margin-left: 550px;
+}
+
+.cppLogo{
+    width: 50px;
+    height: 50px;
+    float: right;
+    margin-top: -310px;
+    margin-right: 550px;
+}
+
+.cLogo{
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-top: -225px;
+    margin-left: 550px;
+}
+
+.javaLogo{
+    width: 75px;
+    height: 75px;
+    float: right;
+    margin-top: -165px;
+    margin-right: 550px;
+}
+
+.htmlLogo{
+    width: 70px;
+    height: 50px;
+    float: left;
+    margin-top: -65px;
+    margin-left: 550px;
+}
 
 .toTop{
     display: block;
