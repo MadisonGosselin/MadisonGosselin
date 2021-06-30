@@ -1,6 +1,6 @@
 body {
-    background-color: black;
-    background-image: linear-gradient(rgb(19, 19, 19), #505050);
+    background-color: #1B1B1B;
+    /* background-image: linear-gradient(rgb(19, 19, 19), #1B1B1B, #303030); */
     text-align: center;
 }
 
@@ -135,8 +135,8 @@ body {
     width: 50px;
     height: 50px;
     float: left;
-    margin-top: -390px;
-    margin-left: 550px;
+    margin-top: -395px;
+    margin-left: 570px;
 }
 
 .cppLogo{
@@ -144,7 +144,7 @@ body {
     height: 50px;
     float: right;
     margin-top: -310px;
-    margin-right: 550px;
+    margin-right: 570px;
 }
 
 .cLogo{
@@ -152,7 +152,7 @@ body {
     height: 50px;
     float: left;
     margin-top: -225px;
-    margin-left: 550px;
+    margin-left: 570px;
 }
 
 .javaLogo{
@@ -160,7 +160,7 @@ body {
     height: 75px;
     float: right;
     margin-top: -165px;
-    margin-right: 550px;
+    margin-right: 570px;
 }
 
 .htmlLogo{
@@ -168,7 +168,7 @@ body {
     height: 50px;
     float: left;
     margin-top: -65px;
-    margin-left: 530px;
+    margin-left: 550px;
 }
 
 .toTop{
