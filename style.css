@@ -17,6 +17,13 @@ body {
     min-height:100vh
 }
 
+.nameArt{
+    width: 50px;
+    height: 50px;
+    margin-left: -1500px;
+    margin-top: -75px;
+}
+
 .pfp{
     display: block;
     margin-left: auto;
