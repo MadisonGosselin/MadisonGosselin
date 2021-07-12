@@ -1,10 +1,11 @@
 body {
     background-color: #1B1B1B;
-    font-family: Franklin Gothic Book; /* or whatever font you want */
-    /* background-image: linear-gradient(rgb(19, 19, 19), #1B1B1B, #303030); */
+    font-family: Franklin Gothic Book; 
+    color: white;
     text-align: center;
 }
 
+/* nav bar backgrounds */
 .homeBackground{
     min-height: 50vh;
 }
@@ -14,9 +15,14 @@ body {
 }
 
 .skillsBackground{
-    min-height:100vh
+    min-height:105vh
 }
 
+.educationBackground{
+    min-height: 100vh;
+}
+
+/* name art */
 .nameArt{
     width: 50px;
     height: 50px;
@@ -24,6 +30,7 @@ body {
     margin-top: -75px;
 }
 
+/* home section */
 .pfp{
     display: block;
     margin-left: auto;
@@ -35,7 +42,6 @@ body {
 }
 
 .name{
-    color: white;
     font-size: 60px;
     margin-top: 30px;
     margin-bottom: 10px;
@@ -44,7 +50,6 @@ body {
 }
 
 .smallDescription{
-    color: white;
     font-size: 18px;
     margin-top: 10px;
     margin-bottom: 5px;
@@ -58,25 +63,19 @@ body {
     margin-bottom: 110px;
 }
 
-.aboutMe{
-    color: white;
-}
-
+/* about me section */
 .aboutMeDescription{
     margin-left: 350px;
     margin-right: 350px;
-    color: white;
 }
 
 .futurePlans{
     margin-top: 50px;
-    color: white;
 }
 
 .futurePlansDescription{
     margin-left: 350px;
     margin-right: 350px;
-    color: white;
 }
 
 .firstLogo{
@@ -106,10 +105,12 @@ body {
     margin-top: 50px;
 }
 
+.aboutmeDivider{
+    margin-top: -50px;
+}
 
+/* skills section */
 .skills{
-    color: white;
-    margin-top: 135px;
     margin-bottom: 25px;
 }
 
@@ -117,63 +118,99 @@ body {
 
 .container {
     width: 20%;
-    background-color: #ddd;
+    background-color: #646464;
     margin-left: auto; margin-right: auto;
     border-radius: 25px;
 }
 
-.pythonTitle{color: white; margin-bottom: 10; margin-top: 50px}
-.cppTitle{color: white; margin-bottom: 10}
-.cTitle{color: white; margin-bottom: 10}
-.javaTitle{color: white; margin-bottom: 10}
-.htmlTitle{color: white; margin-bottom: 10}
+.pythonTitle{margin-bottom: 10; margin-top: 50px}
+.cppTitle{margin-bottom: 10}
+.cTitle{margin-bottom: 10}
+.javaTitle{margin-bottom: 10}
+.htmlTitle{margin-bottom: 10}
 
-.python{width: 80%; background-color: #676767; border: 2pt solid black; margin-top: 0; border-radius: 25px}
-.cpp{width: 65%; background-color: #4f4f4f; border: 2pt solid black; margin-top: 0; border-radius: 25px}
-.c{width: 75%; background-color: #383838; border: 2pt solid black; margin-top: 0; border-radius: 25px}
-.java{width: 25%; background-color: #232323; border: 2pt solid black; margin-top: 0; border-radius: 25px}
-.html{width: 55%; background-color: #0d0d0d; border: 2pt solid black; margin-top: 0; border-radius: 25px}
+.python{width: 80%; background-color: black; border: 2pt solid black; margin-top: 0; border-radius: 25px}
+.cpp{width: 65%; background-color: black; border: 2pt solid black; margin-top: 0; border-radius: 25px}
+.c{width: 75%; background-color: black; border: 2pt solid black; margin-top: 0; border-radius: 25px}
+.java{width: 25%; background-color: black; border: 2pt solid black; margin-top: 0; border-radius: 25px}
+.html{width: 55%; background-color: black; border: 2pt solid black; margin-top: 0; border-radius: 25px}
 
 .pythonLogo{
-    width: 50px;
+    width: auto;
     height: 50px;
     float: left;
     margin-top: -395px;
-    margin-left: 570px;
+    margin-left: 530px;
 }
 
 .cppLogo{
-    width: 50px;
+    width: auto;
     height: 50px;
     float: right;
     margin-top: -310px;
-    margin-right: 570px;
+    margin-right: 530px;
 }
 
 .cLogo{
-    width: 50px;
+    width: auto;
     height: 50px;
     float: left;
     margin-top: -225px;
-    margin-left: 570px;
+    margin-left: 530px;
 }
 
 .javaLogo{
-    width: 75px;
+    width: auto;
     height: 75px;
     float: right;
     margin-top: -165px;
-    margin-right: 570px;
+    margin-right: 520px;
 }
 
 .htmlLogo{
-    width: px;
+    width: auto;
     height: 50px;
     float: left;
     margin-top: -65px;
-    margin-left: 550px;
+    margin-left: 510px;
 }
 
+.skillsDivider{
+    margin-top: 140px;
+}
+
+/* education section */
+.column {
+    float: left;
+    width: 33.33%;
+  }
+  
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+.sandwichLogo{
+    width: 125px;
+    height: auto;
+    margin-top: 25px;
+}
+
+.universityLogo{
+    width: 125px;
+    height: auto;
+    margin-top: 25px;
+}
+
+.shsmLogo{
+    width: auto;
+    height: 125px;
+    margin-top: 35px;
+    margin-bottom: 15px;
+}
+
+/* to top button */
 .toTop{
     display: block;
     color: white;
@@ -215,5 +252,5 @@ li a{
 }
 
 li a:hover {
-    background-color: rgb(100, 100, 100);
+    background-color: #646464;
 }
