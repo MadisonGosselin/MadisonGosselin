@@ -19,4 +19,8 @@ Here are some ideas to get you started:
 <br>
 <i>&emsp;&ensp;University of Windsor </i>
 
-
+<h2>Languages</h2>
+<ul>
+  <li><b>Java Projects: </b></li>
+  <li>C</li>
+</ul>
