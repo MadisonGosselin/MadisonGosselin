@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 
 <h2>Languages</h2>
 <ul>
-  <li><b>Java Projects: </b></li>
+  <li>
+    <b>Java Projects: </b>
+    **[High School Course](https://github.com/MadisonGosselin/ICS4U)**
+  </li>
   <li>C</li>
 </ul>
