@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 
 <br><br><br>
 Wanna know more about me? <br>
-💻 Check out my [Personal Website](https://madisoncgosselin.github.io/) <br>
+💻 Check out my [Personal Website](https://madisongosselin.github.io/) <br>
