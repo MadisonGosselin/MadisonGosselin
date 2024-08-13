@@ -19,5 +19,6 @@
 
 
 <br><br>
-Wanna know more about me? <br>
+Want to know more about me? <br>
 💻 Check out my [Personal Website](https://madisongosselin.github.io/) <br>
+📧 Reach out! [e-mail](mailto:madisoncgosselin@gmail.com) or [Linkedin](https://www.linkedin.com/in/madison-gosselin-748213217/)
