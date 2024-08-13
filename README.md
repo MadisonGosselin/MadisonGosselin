@@ -1,18 +1,4 @@
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hello, I am Madison
+# Hello, I am Madison :)
 
 <b>⚙ Honours Computer Science with Software Engineering Specialization</b>
 <i>(2022-2026)</i><br>
@@ -32,6 +18,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MadisonGosselin&theme=gruvbox_light&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br>
 
 
-<br><br><br>
+<br><br>
 Wanna know more about me? <br>
 💻 Check out my [Personal Website](https://madisongosselin.github.io/) <br>
