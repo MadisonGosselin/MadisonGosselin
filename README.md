@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **MadisonGosselin/MadisonGosselin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hello! I am Madison :)</h1>
+<h1>Hello, I am Madison</h1>
+<b>⚙ Honours Computer Science with Software Engineering Specialization</b>
+<i>(2022-2026)</i>
+<br>
+<i>&emsp;&ensp;University of Windsor </i>
+
+
