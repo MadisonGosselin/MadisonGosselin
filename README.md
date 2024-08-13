@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 <h2>Languages</h2>
 <ul>
   <li>
-    <b>Java Projects: </b>
-    **[High School Course](https://github.com/MadisonGosselin/ICS4U)**
+    <b>Java Projects: FRC Programming, [ICS2O](https://github.com/MadisonGosselin/ICS2O.git), ICS4U</b>
   </li>
   <li>C</li>
 </ul>
