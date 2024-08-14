@@ -1,6 +1,6 @@
 # Hello, I am Madison :)
 
-<b>⚙ Honours Computer Science with Software Engineering Specialization</b>
+<b>⚙ Honours Computer Science with Software Engineering Specialization and Co-op</b>
 <i>(2022-2026)</i><br>
 <i>&emsp;&ensp; University of Windsor </i>
 
