@@ -6,6 +6,8 @@
 
 <h2>Technical Experience</h2>
 
+💼 Software Developer Co-op
+<br><i>&emsp;&ensp;Summer 2025</i><br><br>
 💼 Information Technology Administrator Co-op
 <br><i>&emsp;&ensp;Summer 2024</i><br><br>
 📝 FIRST Robotics Mentor of Teams <b>772, 6875, 8081, 19530 and 19531</b>
